@@ -1,8 +1,8 @@
 cff-version: 1.1.0
 message: "If you use this scripts and protocols, please cite it as below."
 authors:
-- family-names: BMClima
-  given-names: Moura, Noely, et al.
+  project: BMClima
+  authors: Moura, Noely, et al.
 title: Relationship between climatic variables and acute bronchiolitis in children less than five years of age in Brazilian municipalities in the last 20 years
 version: v0.0.1-alpha
 DOI: 10.5281/zenodo.12629277 
