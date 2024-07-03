@@ -1,9 +1,16 @@
 cff-version: 1.1.0
-message: "If you use this scripts and protocols, please cite it as below."
+message: "This is the scripts and protocols repository from Relationship between climatic variables and acute bronchiolitis in children less than five years of age in Brazilian municipalities in the last 20 years projetct. 
+If you use this scripts and protocols, please cite it as below."
 authors:
-  project: BMClima
-  authors: Moura, Noely, et al.
-title: Relationship between climatic variables and acute bronchiolitis in children less than five years of age in Brazilian municipalities in the last 20 years
-version: v0.0.1-alpha
-DOI: 10.5281/zenodo.12629277 
+  - family-names: "Normando"
+    given-names: "Priscilla"
+    orcid: "https://orcid.org/0000-0003-0177-641X"
+  - family-names: "Castro"
+    given-names: "André"
+    orcid: "https://orcid.org/0000-0002-4037-6446"
+  - family-names: "Moura"
+    given-names: "Noely"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: title:bmclima/scriptsprotocols: DOI 10.5281/zenodo.12629277
+version: v0.0.1-alpha 
 date-released: 2024-07-02
